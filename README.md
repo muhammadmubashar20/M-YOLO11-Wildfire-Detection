@@ -46,15 +46,11 @@ Researchers and practitioners are encouraged to use these datasets for experimen
 ---
 
 ## 📜 Citation
-If you use any of these datasets in your research or publications, please cite the original dataset sources accordingly.
+If you use any of these datasets in your research or publications, please cite the original dataset sources and work accordingly.
 
 ---
 
 ## 🙌 Acknowledgment
 Special thanks to the dataset creators and contributors whose work supports advancements in fire detection and safety applications.
 
----
-
-### 🔗 Contact
-For queries or collaborations, feel free to reach out.
 
