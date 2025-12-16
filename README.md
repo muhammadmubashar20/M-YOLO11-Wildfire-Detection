@@ -1,4 +1,4 @@
-# ViT-YOLO11-Wildfire-Detection
+# M-YOLO11-Wildfire-Detection
 This repository provides links to the datasets used in my research on fire detection using deep learning and computer vision. It includes a publicly available fire detection dataset, a synthetic dataset (M4SFWD) designed to simulate diverse fire scenarios, and a real-time fire detection dataset (D-Fire) collected from real-world environments. These datasets support model training, validation, and benchmarking for fire localization and early detection tasks.
 
 # 🔥 Fire Detection Research Datasets
